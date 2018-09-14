@@ -9,6 +9,8 @@ header {
 	color:#000;
 	text-align: center;
 	padding: 30px 10px 20px 10px;
+	position: relative;
+    min-height: 100%;
 }
 
 footer {
@@ -18,6 +20,7 @@ footer {
     height:125px;
 	color:#000;
 	text-align: center;
+	overflow: hidden;
 }
 	
 header , footer {
